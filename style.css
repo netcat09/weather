@@ -1,0 +1,33 @@
+.box {
+    width: 400px;
+    height: 90px;
+    background-color: dodgerblue;
+    border: 5px;
+    border-style: solid;
+    border-color: #2508ff;
+    border-radius: 15px;
+
+
+
+    }
+
+.city {
+    display: inline-block;
+    padding: 10px;
+
+}
+
+.icon {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.weather {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+
+}
